@@ -1,4 +1,4 @@
-![PenguinOS](https://github.com/Project-PenguinOS/.github/blob/main/images/banner.png)
+![PenguinOS](https://github.com/Project-PenguinOS/.github/blob/main/profile/images/banner.png)
 
 PenguinOS
 ===========
