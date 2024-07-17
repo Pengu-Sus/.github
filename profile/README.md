@@ -1,4 +1,6 @@
-![PenguinOS](https://github.com/Project-PenguinOS/.github/blob/main/profile/images/banner.png)
+<p align="center">
+  <img src="https://github.com/Project-PenguinOS/.github/blob/main/profile/images/banner.png" />
+</p>
 
 PenguinOS
 ===========
@@ -32,4 +34,4 @@ Here are some points to note while applying the official maintainership :-
 ### Join our chats!
 
 - [Telegram Channel (Announcements)](https://t.me/PenguinOSChannel)
-- [Telegram superchat (Discussion group)](https://t.me/PenguinOSChatroom)
+- [Telegram Superchat (Discussion group)](https://t.me/PenguinOSChatroom)
