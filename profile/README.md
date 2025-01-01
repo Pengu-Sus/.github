@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://github.com/Project-PenguinOS/.github/blob/main/profile/images/banner.png" />
-</p>
-
 PenguinOS
 ===========
-PenguinOS is based off AOSPA, and it is a fork. (Big thanks to AOSPA!)
-
-It is a small, fun, project started by AOSPA maintainers, to learn more about Android development, and to experiment with design.
-
-It provides some additional features which have been picked from other ROMs/forks, and contains some 
-new, custom re-designs done by the PenguinOS team.
-
-It is currently running on Android 14 (udc/uvite).
+- Based on AOSPA (Yeah, we borrowed some cool stuff!)
+- It's a fork, so expect random changes (I push updates like it’s my hobby)
+- Security patches? Last seen in December 2024
+- Features? We pick the best ones from other ROMs and sprinkle in some Penguin magic
+- UI? Oh, we redesigned it just because we could
+- Performance? It works… most of the time
+- Community? No there's no community Budge off
